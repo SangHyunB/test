@@ -1,2 +1,2 @@
-console.log("¹«¾ßÈ£")
-console.log("¹ö±×¾Æ´Ï¾ß?")
+console.log("ë¬´ì•¼í˜¸")
+console.log("ë²„ê·¸ì•„ë‹ˆì•¼?")
